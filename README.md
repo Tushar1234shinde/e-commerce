@@ -1,6 +1,6 @@
-Hello 
-I am Tushar shinde
-I would like to express my sincere and heartfelt gratitude to the creator of the MERN Stack E-Commerce YouTube Playlist, which served as the primary learning resource and foundation for the development of this project. This entire application was built by carefully following the tutorials in the playlist, and it has played a crucial role in strengthening my understanding of full-stack web development. The way each concept was explained in a clear, practical, and beginner-friendly manner made the learning process both smooth and enjoyable.
+Hello <br>
+I am Tushar shinde <br>
+I would like to express my sincere and heartfelt gratitude to the creator of the MERN Stack E-Commerce YouTube Playlist <b>"6 Pack Programmer"<b>, which served as the primary learning resource and foundation for the development of this project. This entire application was built by carefully following the tutorials in the playlist, and it has played a crucial role in strengthening my understanding of full-stack web development. The way each concept was explained in a clear, practical, and beginner-friendly manner made the learning process both smooth and enjoyable.
 
 Through this playlist, I gained in-depth knowledge of how a real-world MERN Stack application is designed and implemented from scratch. I learned how to build a responsive and dynamic frontend using React, manage state efficiently using Redux, design secure and scalable APIs using Node.js and Express, and store and manage data using MongoDB. Each module was explained with proper logic, best practices, and real-life implementation examples, which helped me move from theory to hands-on development with confidence.
 
